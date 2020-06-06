@@ -1,0 +1,16 @@
+{
+  "name": "tributepage",
+  "version": "1.0.0",
+  "description": "Responsive Web Design Projects",
+  "main": "index.js",
+  "repository": "https://github.com/caroldf07/tribute_page.git",
+  "author": "Carolina Fonseca",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}

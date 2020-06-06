@@ -1,0 +1,97 @@
+*{
+    font-family: 'Noto Serif', serif;
+    background-color: #E0E5D9;
+    color: #324963;
+}
+
+h1,h2,h3,h4,h5,h6,strong{
+    color: #1B252A;
+    background-color: white;
+    text-align: center;
+}
+
+p, img, footer{
+    background-color: white;
+}
+
+#carouselExampleIndicators{
+    width:95vw;
+    height: 300px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+#carouselExampleIndicators img{
+    width:80vw;
+    height: 400px;
+    object-fit: cover;
+    margin-left: auto;
+
+}
+.carousel-item active{
+    width: 100vw;
+    align-items: center;
+}
+
+#title{
+    text-align: center;
+    color: #3C4129;
+}
+
+main{
+    text-align: left;
+    margin: 80px;
+    line-height: 30px;
+    background-color: white;
+    align-items: center;
+}
+
+main img{
+    margin:0;
+    align-items: center;
+    width: 100%;
+}
+
+#tribute-info-mickey h2{
+    margin-top: 30px;
+    text-align: center;
+    background-color: white;
+}
+
+#tribute-info-legacy {
+    text-align: center;
+    margin-right: 15px;
+}
+
+#tribute-info-legacy h2{
+    margin-top: 30px;
+    text-align: center;
+    background-color: white;
+}
+
+#img-div{
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+    background-color: white;
+    justify-content: space-between;
+}
+
+#img-caption{
+    background-color: white;
+}
+
+#img-div img{
+    max-width: 600px; /* with this, the image become more responsive */
+    height: 390px;
+    align-items: center;
+    margin-top: 20px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#tribute-info-death{
+    margin-top: 30px;
+}
