@@ -3,6 +3,8 @@
 ## [FreeCodeCamp](https://www.freecodecamp.org/caroldf07 "FreeCodeCamp")
 
 ### Using:
+
+![](https://img.shields.io/github/languages/count/caroldf07/tribute_page?color=green&style=for-the-badge) ![](https://img.shields.io/github/languages/top/caroldf07/tribute_page?style=for-the-badge)
 -   Javascript
 -   HTML
 -   CSS
@@ -36,3 +38,8 @@ You can build your project by forking this CodePen pen. Or you can use this CDN 
 
 Once you're done, submit the URL to your working project with all its tests passing.
 
+### Screens:
+
+![](https://imgur.com/7o2WEWZ.png)
+
+![](https://imgur.com/Jd82WDW.png)

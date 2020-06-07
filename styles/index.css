@@ -16,16 +16,16 @@ p, img, footer{
 
 #carouselExampleIndicators{
     width:95vw;
-    height: 300px;
-    margin-bottom: 20px;
+    height: 400px;
+    margin-bottom: 80px;
     align-items: center;
+
 }
 
 #carouselExampleIndicators img{
-    width:80vw;
+    width:95vw;
     height: 400px;
     object-fit: cover;
-    margin-left: auto;
 
 }
 .carousel-item active{

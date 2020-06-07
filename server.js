@@ -5,7 +5,7 @@ const server = express();
 server.use(express.static(__dirname))
 
 server.get("/",(req,res) =>{
-    res.render("./index.html")
+    res.render("/index.html")
 })
 
-server.listen(3000);
+server.listen(5000);
